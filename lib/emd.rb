@@ -1,5 +1,7 @@
 require "emd/version"
+require 'compiler'
 
 module Emd
-  # Your code goes here...
+
+
 end
